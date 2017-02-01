@@ -5,13 +5,13 @@ A comment describing this element
 
 Example:
 
-    <my-elem></my-elem>
+    <$1></$1>
 
 Example:
 
-    <my-elem>
+    <$1>
       <h2>Hello my-elem</h2>
-    </my-elem>
+    </$1>
 
 @demo demo/index.html
 -->
